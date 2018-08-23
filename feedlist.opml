@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><opml version="1.0"><head><title>导出订阅</title></head><body><outline text="ios" title="ios" >
+<outline text="路透中文网" title="路透中文网" type="rss" xmlUrl="https://feedx.net/rss/reuters.xml" htmlUrl="https://cn.reuters.com/"/>
+<outline text="纽约时报中文网" title="纽约时报中文网" type="rss" xmlUrl="https://feedx.net/rss/nytimes.xml" htmlUrl="https://cn.nytimes.com/"/>
+<outline text="FT中文网" title="FT中文网" type="rss" xmlUrl="https://feedx.net/rss/ft.xml" htmlUrl="http://www.ftchinese.com/"/>
+<outline text="BBC News 中文" title="BBC News 中文" type="rss" xmlUrl="https://feedx.net/rss/bbc.xml" htmlUrl="https://www.bbc.com/zhongwen/simp"/>
+<outline text="法国国际广播电台" title="法国国际广播电台" type="rss" xmlUrl="https://feedx.net/rss/rfi.xml" htmlUrl="http://cn.rfi.fr/"/>
+<outline text="德国之声" title="德国之声" type="rss" xmlUrl="https://feedx.net/rss/dw.xml" htmlUrl="http://www.dw.com"/>
+<outline text="俄罗斯卫星通讯社" title="俄罗斯卫星通讯社" type="rss" xmlUrl="https://feedx.net/rss/sputnik.xml" htmlUrl="http://sputniknews.cn/"/>
+<outline text="联合早报" title="联合早报" type="rss" xmlUrl="https://feedx.net/rss/zaobaotoday.xml" htmlUrl="https://www.zaobao.com.sg/"/>
+<outline text="朝鲜日报网" title="朝鲜日报网" type="rss" xmlUrl="https://feedx.net/rss/chosun.xml" htmlUrl="http://cnnews.chosun.com/"/>
+<outline text="共同网" title="共同网" type="rss" xmlUrl="https://feedx.net/rss/kyodo.xml" htmlUrl="https://china.kyodonews.net/"/>
+<outline text="朝日新闻" title="朝日新闻" type="rss" xmlUrl="https://feedx.net/rss/asahi.xml" htmlUrl="https://asahichinese-j.com/whatsnew/"/>
+<outline text="日经中文网" title="日经中文网" type="rss" xmlUrl="https://feedx.net/rss/nikkei.xml" htmlUrl="https://cn.nikkei.com/"/>
+<outline text="苹果日报" title="苹果日报" type="rss" xmlUrl="https://feedx.net/rss/appledaily.xml" htmlUrl="https://hk.news.appledaily.com/daily/international/"/>
+<outline text="中央社" title="中央社" type="rss" xmlUrl="https://feedx.net/rss/cna.xml" htmlUrl="http://m.cna.com.tw/list/firstnews"/>
+<outline text="澎湃新闻" title="澎湃新闻" type="rss" xmlUrl="https://feedx.net/rss/thepaper.xml" htmlUrl="http://www.thepaper.cn/ "/></outline></body></opml>
