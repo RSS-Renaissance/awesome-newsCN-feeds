@@ -1,6 +1,6 @@
 此项目的 RSS 全文订阅地址由 [FeedX](https://feedx.net/) 强力驱动。
 
-**OPML 订阅源**： 
+**OPML 订阅源**： https://raw.githubusercontent.com/RSS-Renaissance/awesome-newsCN-feeds/master/feedlist.opml
 
 关于如何订阅 **OPML 订阅源**，可以看这里：[使用-inoreader-订阅-OPML-订阅源](https://github.com/RSS-Renaissance/RSSR-Docs-CN/blob/master/01-%E4%BD%BF%E7%94%A8-inoreader-%E8%AE%A2%E9%98%85-OPML-%E8%AE%A2%E9%98%85%E6%BA%90.md)
 
